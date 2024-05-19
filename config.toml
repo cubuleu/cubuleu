@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://cubul.eu/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "CUBUL"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -16,17 +16,9 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
-    weight  = 3
-  [[menu.nav]]
-    name    = "Blog"
-    url     = "blog"
-    weight  = 4
-  [[menu.nav]]
     name    = "Get in touch"
     url     = "contact"
-    weight  = 5
+    weight  = 3
 
 # Site Params
 [params]
@@ -99,6 +91,7 @@ summarylength = 25
     secondary_button_url = "portfolio"
 
   [params.footer]
+    params.footer.qr_print = false
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
