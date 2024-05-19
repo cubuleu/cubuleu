@@ -1,57 +1,57 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Spelling Blocks"
+  content: "Cubul is an educational toy for children from Kindergarten to Middle School. It playfully teaches letters and word formation, enhancing mental, creative, and motor skills. Vowels and consonants are in different colors, helping children subconsciously understand their differences. Cubul is high-quality, easy to store, and requires no instructions, making it perfect for school, home, or travel."
+  image: "images/toy.png"
   button:
-    enable: true
+    enable: false
     label: "Browse All Products"
     link: "products/"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "Our Ambition"
+  image: "images/box.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Durable and reusable"
+      icon: "tf-ion-ios-chain-outline"
+      content: "Bricks and Box are made out of ABS material, which makes it last longer."
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Compatible with other brick systems"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Combine the bricks with other brands to boost your fun."
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Easy to understand"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "It is intuitive for kids to open the box and start building words."
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "Smooth Touch"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "For School"
 
       # feature item loop
     - title: "Elegant Design"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "At Home"
 
       # feature item loop
     - title: "Easy Pricing"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "For Travel"
 
 ############################# promo ############################
 promo:
-  enable: true
+  enable: false
   image: "images/watch.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
@@ -62,7 +62,7 @@ promo:
 
 ############################# About Product #######################
 about_product:
-  enable: true
+  enable: false
   title: "Why Choose Apple Watch"
   items:
     # about product item loop
@@ -91,7 +91,7 @@ about_product:
 
 #################################### Products ########################
 products:
-  enable: true
+  enable: false
   title: "Checkout Our All Products"
 
 ################################## Subscription ###################
@@ -99,12 +99,12 @@ subscription:
   enable: true
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  content: "We will send you updates on new products and add-ons."
   placeholder: "Your Email Address Here"
 
 ############################## Testimonial ##########################
 testimonial:
-  enable: true
+  enable: false
   title: "Watch Review"
   testimonial_item:
     # testimonial item loop
