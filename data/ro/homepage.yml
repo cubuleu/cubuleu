@@ -20,42 +20,43 @@ este compatibil cu alte sisteme de cărămizi."
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
+  title: "Caracteristicile Produsului"
   image: "images/box.png"
 
-  # feature at the left of the image
+ # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Jucarie durabila și reutiliyabila"
+      icon: "tf-recycle2"
+      content: "Blocurile, plăcile și cutia sunt fabricate din material ABS, care este ușor și durabil.."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Compatibla cu are sisteme de caramizi"
+      icon: "tf-puzzle"
+      content: "Combină blocurile cu alte mărci pentru a-ți spori distracția."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Usor de inteles"
+      icon: "tf-lightbulb"
+      content: "Este intuitiv pentru copii să deschidă cutia și să înceapă să construiască cuvinte."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Pentru școală"
+      icon: "tf-genius"
+      content: "Cutia este concepută să se potrivească ușor într-un ghiozdan pentru a fi transportată zilnic la și de la școală."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Acasă"
+      icon: "tf-ion-ios-home-outline"
+      content: "Folosește cutia acasă în timpul lecturii pentru a învăța cuvinte noi și a le memora."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Pentru călătorie"
+      icon: "tf-ion-ios-world-outline"
+      content: "Fiind ușoare și mici, cutia și literele pot fi luate cu ușurință cu tine în timp ce explorezi lumea."
+
 
 ############################# promo ############################
 promo:

@@ -19,34 +19,34 @@ features:
   left_side:
     # feature item loop
     - title: "Durable and reusable"
-      icon: "tf-ion-ios-chain-outline"
+      icon: "tf-recycle2"
       content: "Bricks, tiles and box are made out of ABS material, which is lightweight and makes it last longer."
 
       # feature item loop
     - title: "Compatible with other brick systems"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-puzzle"
       content: "Combine the bricks with other brands to boost your fun."
 
       # feature item loop
     - title: "Easy to understand"
-      icon: "tf-ion-ios-cart-outline"
+      icon: "tf-lightbulb"
       content: "It is intuitive for kids to open the box and start building words."
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "For School"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "The box is designed to fit easy into a schoolbag to transport your"
+      icon: "tf-genius"
+      content: "The box is designed to fit easy into a schoolbag to transport to and back from school every day."
 
       # feature item loop
     - title: "At Home"
-      icon: "tf-ion-ios-alarm-outline"
+      icon: "tf-ion-ios-home-outline"
       content: "Use the box at home during reading to learn new words and memorise them."
 
       # feature item loop
     - title: "For Travel"
-      icon: "tf-ion-ios-cart-outline"
+      icon: "tf-ion-ios-world-outline"
       content: "Being light-weight and small, the box and the letters can be easily taken with you while exploring the word."
 
 ############################# promo ############################
