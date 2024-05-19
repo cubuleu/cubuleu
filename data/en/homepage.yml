@@ -100,7 +100,7 @@ subscription:
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "We will send you updates on new products and add-ons."
-  placeholder: "Your Email Address Here"
+  placeholder: "katharina@cubul.eu"
 
 ############################## Testimonial ##########################
 testimonial:
