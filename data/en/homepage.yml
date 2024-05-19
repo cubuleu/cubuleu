@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Spelling Blocks"
+  title: "Coming Soon!"
   content: "Cubul is an educational toy for children from Kindergarten to Middle School. It playfully teaches letters and word formation, enhancing mental, creative, and motor skills. Vowels and consonants are in different colors, helping children subconsciously understand their differences. Cubul is high-quality, easy to store, and requires no instructions, making it perfect for school, home, or travel."
   image: "images/toy.png"
   button:
@@ -20,7 +20,7 @@ features:
     # feature item loop
     - title: "Durable and reusable"
       icon: "tf-ion-ios-chain-outline"
-      content: "Bricks and Box are made out of ABS material, which makes it last longer."
+      content: "Bricks, tiles and box are made out of ABS material, which is lightweight and makes it last longer."
 
       # feature item loop
     - title: "Compatible with other brick systems"
@@ -35,19 +35,19 @@ features:
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "For School"
       icon: "tf-ion-ios-alarm-outline"
-      content: "For School"
+      content: "The box is designed to fit easy into a schoolbag to transport your"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "At Home"
+    - title: "At Home"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Use the box at home during reading to learn new words and memorise them."
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "For Travel"
       icon: "tf-ion-ios-cart-outline"
-      content: "For Travel"
+      content: "Being light-weight and small, the box and the letters can be easily taken with you while exploring the word."
 
 ############################# promo ############################
 promo:
@@ -96,7 +96,7 @@ products:
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "We will send you updates on new products and add-ons."

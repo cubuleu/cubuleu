@@ -4,30 +4,41 @@ description : "this is a meta description"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+## Cubul Educational Toys S.R.L.
 
-### Product Buy & delivery policy
+Effective Date: 19th of May, 2024
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+### 1. Introduction
 
-### Product Buy & delivery policy
+Welcome to the website of Cubul Educational Toys S.R.L. ("Company," "we," "us," or "our"). By using this website, you agree to these Terms and Conditions. Please read them carefully.
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+### 2. Use of the Site
 
-### Refund Policy
+a. Access to the Site: This site is intended to showcase our products. We do not provide prices and do not accept orders through this website.
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+b. Accuracy of Information: We strive to provide accurate and up-to-date information about our products. However, we do not guarantee that product descriptions or other content on the site are complete, current, or error-free.
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### 3. Intellectual Property
 
-### Why We Support:
+All content on this site, including text, images, graphics, and logos, is the property of Cubul Educational Toys S.R.L. and is protected by copyright and other intellectual property laws. Unauthorized use of any materials from this site is prohibited.
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+### 4. Limitation of Liability
+
+a. Access and Use of the Site: Your use of this site is at your own risk. We are not responsible for any damages or losses resulting from the use or inability to use our site.
+
+b. External Links: This site may contain links to other external websites that are not operated by us. We have no control over the content and practices of those sites and assume no responsibility for them.
+
+### 5. Changes to the Terms and Conditions
+
+We reserve the right to modify these Terms and Conditions at any time. Any changes will be posted on this page with an updated revision date. We encourage you to check this page periodically to stay informed of any changes.
+
+### 6. Applicable Law
+
+These Terms and Conditions are governed by the laws of Romania. Any dispute arising from the use of this site shall be resolved in accordance with Romanian law.
+
+### 7. Contact Us
+
+If you have any questions about these Terms and Conditions, please contact us:
+
+By Email: katharina@cubul.eu
+By Mail: Intrarea Gherghe Simionescu 19 Ap 26, Bucharest, Romania

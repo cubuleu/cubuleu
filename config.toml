@@ -7,7 +7,7 @@ summarylength = "20"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
-disableLanguages = true # disable language from here
+disableLanguages = [] # disable language from here
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -41,7 +41,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "150px"
+logo_width = "200px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -128,4 +128,62 @@ name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 4
 
+################################### Romanian language #####################################
+[Languages.ro]
+languageName = "Ro"
+languageCode = "ro-ro"
+contentDir = "content/romanian"
+weight = 1
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
+
+###################################### Navigation english ######################################
+
+# homepage section menu
+[[Languages.ro.menu.main]]
+name = "Acasa"
+url = "/"
+weight = 1
+
+#[[Languages.ro.menu.main]]
+# name = "Products"
+# url = "products/"
+# weight = 2
+
+# [[Languages.ro.menu.main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 3
+
+# [[Languages.ro.menu.main]]
+# name = "Review"
+# pre = "#"
+# url = "testimonial"
+# weight = 4
+
+[[Languages.ro.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+# footer menu
+# [[Languages.ro.menu.footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 1
+
+[[Languages.ro.menu.footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[[Languages.ro.menu.footer]]
+name = "Termeni și Condiții"
+url = "terms-conditions/"
+weight = 3
+
+[[Languages.ro.menu.footer]]
+name = "Politica de Confidențialitate"
+url = "privacy-policy/"
+weight = 4
