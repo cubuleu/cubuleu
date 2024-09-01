@@ -20,7 +20,7 @@ b. Exactitatea Informațiilor: Ne străduim să oferim informații corecte și a
 
 ### 3. Proprietatea Intelectuală
 
-Tot conținutul acestui site, inclusiv textele, imaginile, grafica și logo-urile, este proprietatea Cubul Educational Toys S.R.L. și este protejat de legislația privind drepturile de autor și alte legi privind proprietatea intelectuală. Utilizarea neautorizată a oricăror materiale de pe acest site este interzisă.
+Tot conținutul acestui site, inclusiv textele, imaginile, grafica și logo-urile, sunt proprietatea Cubul Educational Toys S.R.L. și este protejat de legislația privind drepturile de autor și alte legi privind proprietatea intelectuală. Utilizarea neautorizată a oricăror materiale de pe acest site este interzisă.
 
 ### 4. Limitarea Răspunderii
 
