@@ -2,15 +2,15 @@
 banner:
   enable: true
   title: "În curând"
-  content: "Cubul este o jucărie educativă pentru copii de la gră-
-diniță până la gimnaziu. Aceasta învață în mod jucăuș
+  content: "Cubul este o jucărie educativă pentru copii de la 
+grădiniță până la gimnaziu. Aceasta învață în mod jucăuș
 literele și formarea cuvintelor, îmbunătățind abilitățile
 mentale, creative și motorii. Vocalele și consoanele
-sunt în culori diferite, ajutând copiii să înțeleagă sub-
-conștient diferențele dintre ele. Cubul este de înaltă
+sunt în culori diferite, ajutând copiii să înțeleagă subconștient 
+diferențele dintre ele. Cubul este de înaltă
 calitate, ușor de depozitat și nu necesită instrucțiuni,
 fiind perfect pentru școală, acasă sau călătorii. Cubul
-este compatibil cu alte sisteme de cărămizi."
+este compatibil cu alte sisteme de blocuri."
   image: "images/toy.png"
   button:
     enable: false
@@ -26,17 +26,17 @@ features:
  # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Jucarie durabila și reutiliyabila"
+    - title: "Jucărie durabilă și reutilizabilă"
       icon: "tf-recycle2"
-      content: "Blocurile, plăcile și cutia sunt fabricate din material ABS, care este ușor și durabil.."
+      content: "Blocurile, plăcile și cutia sunt fabricate din material ABS, care este ușor și durabil."
 
       # feature item loop
-    - title: "Compatibla cu are sisteme de caramizi"
+    - title: "Compatibilă cu alte sisteme de blocuri"
       icon: "tf-puzzle"
       content: "Combină blocurile cu alte mărci pentru a-ți spori distracția."
 
       # feature item loop
-    - title: "Usor de inteles"
+    - title: "Ușor de înțeles"
       icon: "tf-lightbulb"
       content: "Este intuitiv pentru copii să deschidă cutia și să înceapă să construiască cuvinte."
 
