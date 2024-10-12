@@ -9,4 +9,4 @@ draft: false
 Our first shipment of CUBUL Spelling Toy is now avialble for sale. At the moment, we are happy to sell via
 
 
-
+{{% button href="https://gohugo.io/" style="warning" icon="dragon" %}}Get Hugo{{% /button %}}
