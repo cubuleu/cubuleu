@@ -10,6 +10,8 @@ googleAnalytics = "" # Ex: UA-123-45
 disableLanguages = [] # disable language from here
 
 # unsafe html
+[markup]
+defaultMarkdownHandler = “goldmark”
 [markup.goldmark.renderer]
 unsafe = true
 
@@ -164,7 +166,7 @@ weight = 2
 
 [[Languages.ro.menu.main]]
 name = "Contact"
-url = "contact/"
+url = "/"
 weight = 3
 
 # footer menu
