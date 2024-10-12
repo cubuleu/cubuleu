@@ -1,13 +1,13 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Coming Soon!"
+  title: "Now Available!"
   content: "Cubul is an educational toy for children from Kindergarten to Middle School. It playfully teaches letters and word formation, enhancing mental, creative, and motor skills. Vowels and consonants are in different colors, helping children subconsciously understand their differences. Cubul is high-quality, easy to store, and requires no instructions, making it perfect for school, home, or travel."
   image: "images/toy.png"
   button:
-    enable: false
-    label: "Browse All Products"
-    link: "products/"
+    enable: True
+    label: "Buy on Amazon Poland"
+    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL/ref=ewc_pr_img_1?smid=A1XJ7JA1IOA0VY&psc=1"
 
 ############################# Feature ############################
 features:
