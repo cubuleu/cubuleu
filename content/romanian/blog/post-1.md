@@ -1,6 +1,6 @@
 ---
 title: "Cubul este acum disponibil!"
-date: 2024-10-12T15:22:16+01:00
+date: 2024-10-11T15:22:16+01:00
 image: "images/toy.png"
 description : "this is a meta description"
 draft: false
