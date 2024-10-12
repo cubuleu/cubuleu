@@ -12,7 +12,6 @@ banner:
     enable: True
     label: "Buy on amazon.nl"
     link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL"
-
 ############################# Feature ############################
 features:
   enable: true
@@ -55,14 +54,19 @@ features:
 
 ############################# promo ############################
 promo:
-  enable: false
-  image: "images/watch.png"
+  enable: true
+  image: "images/toy.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    "We are happy to announce that CUBUL Spelling Toy can be currently purchased on amazon.pl and amazon.nl"
+  button:
+    enable: True
+    label: "Buy on amazon.pl"
+    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
+  button:
+    enable: True
+    label: "Buy on amazon.nl"
+    link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL"
 
 ############################# About Product #######################
 about_product:
