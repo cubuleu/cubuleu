@@ -14,11 +14,11 @@ este compatibil cu alte sisteme de blocuri."
   image: "images/toy.jpg"
   button1:
     enable: True
-    label: "Cumpărați-l de pe amazon.pl"
+    label: "Cumpărați pe amazon.pl"
     link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
   button2:
     enable: True
-    label: "Cumpărați-l de pe amazon.nl"
+    label: "Cumpărați pe amazon.nl"
     link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL/"
 
 ############################# Feature ############################
