@@ -70,7 +70,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                  
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
+languageName = "EN"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
@@ -130,7 +130,7 @@ weight = 4
 
 ################################### Romanian language #####################################
 [Languages.ro]
-languageName = "Ro"
+languageName = "RO"
 languageCode = "ro-ro"
 contentDir = "content/romanian"
 weight = 2
@@ -142,7 +142,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 # homepage section menu
 [[Languages.ro.menu.main]]
-name = "Acasa"
+name = "Acas"
 url = "/"
 weight = 1
 
