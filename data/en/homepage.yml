@@ -6,13 +6,11 @@ banner:
   image: "images/toy.jpg"
   button:
     enable: True
-    label: "Buy on amazon.pl"
-    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
-  button:
-    enable: True
-    label: "Buy on amazon.nl"
-    icon: "dragon"
-    link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL"
+    items:
+     - title: "Buy on amazon.pl"
+       link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
+     - title: "Buy on amazon.nl"
+       link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL"
 ############################# Feature ############################
 features:
   enable: true
@@ -55,7 +53,7 @@ features:
 
 ############################# promo ############################
 promo:
-  enable: true
+  enable: false
 
   title: "Be creative, be cubul"
   content:
