@@ -13,8 +13,13 @@
 				<div class="block">
 					<h1 class="font-weight-bold mb-4 font-size-60">{{ .title | markdownify }}</h1>
 					<p class="mb-4">{{ .content | markdownify }}</p>
-					{{ if .button.enable }}
-					{{ with .button }}
+					{{ if .button1.enable }}
+					{{ with .button1 }}
+					<a href="{{.link|absLangURL}}" class="btn btn-main" target="_blank">{{.label}}</a>
+					{{ end }}
+					{{ end }}
+					{{ if .button2.enable }}
+					{{ with .button2 }}
 					<a href="{{.link|absLangURL}}" class="btn btn-main" target="_blank">{{.label}}</a>
 					{{ end }}
 					{{ end }}
