@@ -145,7 +145,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 # homepage section menu
 [[Languages.ro.menu.main]]
 name = "Acasa"
-url = "/"
+url = "ro/"
 weight = 1
 
 #[[Languages.ro.menu.main]]
@@ -155,7 +155,7 @@ weight = 1
 
 [[Languages.ro.menu.main]]
 name = "Blog"
-url = "blog/"
+url = "ro/blog/"
 weight = 2
 
 # [[Languages.ro.menu.main]]
@@ -166,26 +166,26 @@ weight = 2
 
 [[Languages.ro.menu.main]]
 name = "Contact"
-url = "contact/"
+url = "ro/contact/"
 weight = 3
 
 # footer menu
 [[Languages.ro.menu.footer]]
 name = "Blog"
-url = "blog/"
+url = "ro/blog/"
 weight = 1
 
 [[Languages.ro.menu.footer]]
 name = "Contact"
-url = "contact/"
+url = "ro/contact/"
 weight = 2
 
 [[Languages.ro.menu.footer]]
 name = "Termeni și Condiții"
-url = "terms-conditions/"
+url = "ro/terms-conditions/"
 weight = 3
 
 [[Languages.ro.menu.footer]]
 name = "Politica de Confidențialitate"
-url = "privacy-policy/"
+url = "ro/privacy-policy/"
 weight = 4
