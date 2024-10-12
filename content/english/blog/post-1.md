@@ -7,6 +7,6 @@ draft: false
 ---
 
 Our first shipment of CUBUL Spelling Toy is now avialble for sale. At the moment, we are happy to sell via 
-https://oostens.me/posts/hugo-button-shortcode/
-
+<div>{{< button relref="/" >}}Get Home{{< /button >}}
+</div>
 
