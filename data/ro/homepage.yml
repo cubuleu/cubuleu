@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "În curând"
+  title: "Disponibil acum!"
   content: "Cubul este o jucărie educativă pentru copii de la 
 grădiniță până la gimnaziu. Aceasta învață în mod jucăuș
 literele și formarea cuvintelor, îmbunătățind abilitățile
@@ -11,11 +11,11 @@ diferențele dintre ele. Cubul este de înaltă
 calitate, ușor de depozitat și nu necesită instrucțiuni,
 fiind perfect pentru școală, acasă sau călătorii. Cubul
 este compatibil cu alte sisteme de blocuri."
-  image: "images/toy.png"
+  image: "images/toy.jpg"
   button:
-    enable: false
-    label: "Browse All Products"
-    link: "products/"
+    enable: True
+    label: "Cumpărați-l de pe amazon.pl"
+    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
 
 ############################# Feature ############################
 features:
