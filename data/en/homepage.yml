@@ -11,7 +11,7 @@ banner:
   button2:
     enable: True
     label: "Buy on amazon.nl"
-    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
+    link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL/"
 
 ############################# Feature ############################
 features:
