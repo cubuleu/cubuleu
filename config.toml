@@ -142,7 +142,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 # homepage section menu
 [[Languages.ro.menu.main]]
-name = "Acas"
+name = "Acasa"
 url = "/"
 weight = 1
 
@@ -151,10 +151,10 @@ weight = 1
 # url = "products/"
 # weight = 2
 
-# [[Languages.ro.menu.main]]
-# name = "Blog"
-# url = "blog/"
-# weight = 3
+[[Languages.ro.menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 2
 
 # [[Languages.ro.menu.main]]
 # name = "Review"
@@ -165,7 +165,7 @@ weight = 1
 [[Languages.ro.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 2
+weight = 3
 
 # footer menu
 # [[Languages.ro.menu.footer]]
