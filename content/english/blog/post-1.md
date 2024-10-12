@@ -1,8 +1,8 @@
 ---
 title: "CUBUL Spelling Toy is now available!"
-date: 2024-10-12T15:34:16+01:00
+date: 2024-10-11T15:34:16+01:00
 image: "images/toy.png"
-description : ""
+description : "CUBUL Spelling Toy is now available!"
 draft: false
 ---
 
