@@ -6,7 +6,8 @@ description : "CUBUL Spelling Toy is now available!"
 draft: false
 ---
 
-Our first shipment of CUBUL Spelling Toy is now avialble for sale. At the moment, we are happy to sell via
+Our first shipment of CUBUL Spelling Toy is now avialble for sale. At the moment, we are happy to sell via 
+{{% button href="https://gohugo.io/" %}}Get Hugo{{% /button %}}
 
 
 
