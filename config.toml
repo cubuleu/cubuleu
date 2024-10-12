@@ -131,7 +131,7 @@ weight = 4
 ################################### Romanian language #####################################
 [Languages.ro]
 languageName = "RO"
-languageCode = "ro-ro"
+languageCode = "ro"
 contentDir = "content/romanian"
 weight = 2
 # copyright
@@ -142,7 +142,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 # homepage section menu
 [[Languages.ro.menu.main]]
-name = "Acasa"
+name = "Home"
 url = "/"
 weight = 1
 
