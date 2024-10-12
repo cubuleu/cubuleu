@@ -5,4 +5,4 @@ image: "images/toy.png"
 description : "this is a meta description"
 draft: false
 ---
-Am primit cu succes primul nostru transport și îl vindem pe Amazon!
+Am primit cu succes primul nostru transport si il vindem pe Amazon!
