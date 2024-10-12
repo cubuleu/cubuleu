@@ -7,4 +7,4 @@ draft: false
 ---
 
 Our first shipment of CUBUL Spelling Toy is now avialble for sale. At the moment, we are happy to sell via 
-<a href="https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL" target ="_blank">Amazon NL></a>
+<a href='https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL' target ='_blank'>Amazon NL></a>
