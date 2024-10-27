@@ -6,7 +6,7 @@ banner:
   image: "images/toy.jpg"
   button1:
     enable: True
-    label: "Buy on amazon.pl"
+    label: "Buy on amazon.de"
     link: "https://www.amazon.de/Cubul-Spelling-Blocks-Buchstaben-Bausteine-praktischer/dp/B0DJJRSSGL"
   button2:
     enable: True
