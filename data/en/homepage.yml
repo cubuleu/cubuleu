@@ -7,11 +7,11 @@ banner:
   button1:
     enable: True
     label: "Buy on amazon.pl"
-    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
+    link: "https://www.amazon.de/Cubul-Spelling-Blocks-Buchstaben-Bausteine-praktischer/dp/B0DJJRSSGL"
   button2:
     enable: True
-    label: "Buy on amazon.nl"
-    link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL/"
+    label: "Buy on amazon.pl"
+    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
 
 ############################# Feature ############################
 features:
