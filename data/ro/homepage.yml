@@ -14,12 +14,12 @@ este compatibil cu alte sisteme de blocuri."
   image: "images/toy.jpg"
   button1:
     enable: True
-    label: "Cubul pe amazon.pl"
-    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
+    label: "Cubul pe amazon.de"
+    link: "https://www.amazon.de/Cubul-Spelling-Blocks-Buchstaben-Bausteine-praktischer/dp/B0DJJRSSGL"
   button2:
     enable: True
-    label: "Cubul pe amazon.nl"
-    link: "https://www.amazon.nl/Cubul-Spelling-Blocks-letterbouwstenen-praktische/dp/B0DJJRSSGL/"
+    label: "Cubul pe amazon.pl"
+    link: "https://www.amazon.pl/gp/product/B0DJJRSSGL"
 
 ############################# Feature ############################
 features:
