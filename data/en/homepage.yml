@@ -112,7 +112,7 @@ testimonial:
     # testimonial item loop
     - name: "Former Early Learning Principal"
       designation: "American International School of Bucharest"
-      #image: "images/favicon.png"
+      image: "images/favicon.png"
       content: "Cubul is an engaging and effective resource for young learners beginning to explore the world of words. The vibrant colors make it easy for children to differentiate between vowels and consonants, while the sturdy pieces are perfect for hands-on manipulation. Cubul provides a fun and practical way for children to develop word formation skills through play. The compact storage case adds extra convenience, making it simple to carry and store. I recommend this set as a fine addition to any young learner’s literacy play area."
 
     
